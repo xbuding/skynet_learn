@@ -1,5 +1,3 @@
 # skynet_learn
 
-1. 编译skynet
-  cd server/skynet
-  make macosx
+code from https://github.com/cloudwu/skynet_sample.git
